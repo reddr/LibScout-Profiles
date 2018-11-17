@@ -1,0 +1,2914 @@
+{
+    "libraries": [
+        {
+            "repo": "mvn-central",
+            "name": "Facebook Audience",
+            "category": "Advertising",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "audience-network-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Pollfish",
+            "category": "Android",
+            "comment": "SDK for showing Pollfish surveys within mobile apps as a monetization solution",
+            "groupid": "com.pollfish",
+            "artefactid": "pollfish"
+        },{
+            "repo": "mvn-central",
+            "name": "TapJoy",
+            "category": "Advertising",
+            "comment": "",
+            "groupid": "com.google.ads.mediation",
+            "artefactid": "tapjoy"
+        },{
+            "repo": "mvn-central",
+            "name": "Adcel TapJoy",
+            "category": "Advertising",
+            "comment": "",
+            "groupid": "co.adcel.android",
+            "artefactid": "adcel-tapjoy"
+        },{
+            "repo": "mvn-central",
+            "name": "RoboPods HeyZap",
+            "category": "Android",
+            "comment": "RoboPods Heyzap Android",
+            "groupid": "org.robovm",
+            "artefactid": "robopods-heyzap-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Maven plugin tools",
+            "category": "Utilities",
+            "comment": "Java 5 annotations to use in Mojos",
+            "groupid": "org.apache.maven.plugin-tools",
+            "artefactid": "maven-plugin-annotations"
+        },{
+            "repo": "mvn-central",
+            "name": "JetBrains",
+            "category": "Utilities",
+            "comment": "A set of annotations used for code inspection support and code documentation",
+            "groupid": "org.jetbrains",
+            "artefactid": "annotations"
+        },{
+            "repo": "mvn-central",
+            "name": "JetBrains",
+            "category": "Utilities",
+            "comment": "A set of annotations used for code inspection support and code documentation",
+            "groupid": "org.jetbrains",
+            "artefactid": "annotations-java5"
+        },{
+            "repo": "mvn-central",
+            "name": "Spek",
+            "category": "Utilities",
+            "comment": "A Specification Framework for the JVM",
+            "groupid": "org.jetbrains.spek",
+            "artefactid": "spek-api"
+        },{
+            "repo": "mvn-central",
+            "name": "IntelliJ IDEA core",
+            "category": "Android",
+            "comment": "IntelliJ IDEA Core",
+            "groupid": "com.android.tools.external.com-intellij",
+            "artefactid": "intellij-core"
+        },{
+            "repo": "mvn-central",
+            "name": "IntelliJ IDEA",
+            "category": "Utilities",
+            "comment": "A set of annotations used for code inspection support and code documentation",
+            "groupid": "com.intellij",
+            "artefactid": "annotations"
+        },{
+            "repo": "mvn-central",
+            "name": "Structure IntelliJ",
+            "category": "Utilities",
+            "comment": "Structure IntelliJ",
+            "groupid": "org.jetbrains.intellij.plugins",
+            "artefactid": "structure-intellij"
+        },{
+            "repo": "mvn-central",
+            "name": "IntelliJ Plugin Structure",
+            "category": "Utilities",
+            "comment": "IntelliJ Plugin Structure",
+            "groupid": "org.jetbrains.intellij.plugins",
+            "artefactid": "intellij-plugin-structure"
+        },{
+            "repo": "mvn-central",
+            "name": "PanicKit",
+            "category": "Utilities",
+            "comment": "a collection of tools for letting panic trigger and panic receiver apps safely and easily connect to each other",
+            "groupid": "info.guardianproject.panic",
+            "artefactid": "panic"
+        },{
+            "repo": "mvn-central",
+            "name": "jetifier",
+            "category": "Android",
+            "comment": "Android Jetifier Core",
+            "groupid": "com.android.tools.build.jetifier",
+            "artefactid": "jetifier-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Piwik",
+            "category": "Utilities",
+            "comment": "Provides access to the Piwik Tracking HTTP API",
+            "groupid": "ch.rasc",
+            "artefactid": "piwik-tracking"
+        },{
+            "repo": "mvn-central",
+            "name": "Adcel Smaato",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "co.adcel.android",
+            "artefactid": "adcel-smaato"
+        },{
+            "repo": "mvn-central",
+            "name": "AppAth",
+            "category": "Utilities",
+            "comment": " OAuth2 / OpenID Connect client for Android apps",
+            "groupid": "net.openid",
+            "artefactid": "appauth"
+        },{
+            "repo": "mvn-central",
+            "name": "Adcel AdColony",
+            "category": "Advertising",
+            "comment": "",
+            "groupid": "co.adcel.android",
+            "artefactid": "adcel-adcolony"
+        },{
+            "repo": "mvn-central",
+            "name": "AppsFlyer",
+            "category": "Advertising",
+            "comment": "fficial Android SDK for Mobile Advertising Attribution & Analytics. ",
+            "groupid": "com.appsflyer",
+            "artefactid": "af-android-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Picasso",
+            "category": "Android",
+            "comment": "A powerful image downloading and caching library for Android",
+            "groupid": "com.squareup.picasso",
+            "artefactid": "picasso"
+        },{
+            "repo": "mvn-central",
+            "name": "Flurry",
+            "category": "Analytics",
+            "comment": "The hassle-free way to add analytics to your Android app. ",
+            "groupid": "io.segment.analytics.android",
+            "artefactid": "flurry"
+        },{
+            "repo": "mvn-central",
+            "name": "Android Beacon Library",
+            "category": "Android",
+            "comment": "Allows Android apps to interact with BLE beacons",
+            "groupid": "org.altbeacon",
+            "artefactid": "android-beacon-library"
+        },{
+            "repo": "mvn-central",
+            "name": "Logger",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.orhanobut",
+            "artefactid": "logger"
+        },{
+            "repo": "mvn-central",
+            "name": "Logback Json Logger",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "uk.gov.hmrc",
+            "artefactid": "logback-json-logger"
+        },{
+            "repo": "mvn-central",
+            "name": "Fresco",
+            "category": "Android",
+            "comment": "An Android library for managing images and the memory they use. (http://frescolib.org)",
+            "groupid": "com.facebook.fresco",
+            "artefactid": "fresco"
+        },{
+            "repo": "mvn-central",
+            "name": "RxAndroid",
+            "category": "Android",
+            "comment": "Android specific bindings for RxJava",
+            "groupid": "io.reactivex",
+            "artefactid": "rxandroid"
+        },{
+            "repo": "mvn-central",
+            "name": "glide",
+            "category": "Android",
+            "comment": "An image loading and caching library for Android focused on smooth scrolling",
+            "groupid": "com.github.bumptech.glide",
+            "artefactid": "glide"
+        },{
+            "repo": "mvn-central",
+            "name": "New Relic",
+            "category": "Android",
+            "comment": "Mobile app performance monitoring",
+            "groupid": "com.newrelic.agent.android",
+            "artefactid": "android-agent"
+        },{
+            "repo": "mvn-central",
+            "name": "ACRA",
+            "category": "Android",
+            "comment": "Application Crash Reports for Android",
+            "groupid": "ch.acra",
+            "artefactid": "acra"
+        },{
+            "repo": "mvn-central",
+            "name": "Dexter",
+            "category": "Android",
+            "comment": "Dexter is an Android library that simplifies the process of requesting permissions at runtime",
+            "groupid": "com.karumi",
+            "artefactid": "dexter"
+        },{
+            "repo": "mvn-central",
+            "name": "universal image loader",
+            "category": "Android",
+            "comment": "Powerful and flexible library for loading, caching and displaying images on Android.",
+            "groupid": "com.nostra13.universalimageloader",
+            "artefactid": "universal-image-loader"
+        },{
+            "repo": "mvn-central",
+            "name": "CleverTap",
+            "category": "Android",
+            "comment": "App Personalization and Engagement",
+            "groupid": "com.clevertap.android",
+            "artefactid": "clevertap-segment-android"
+        },{
+            "repo": "mvn-central",
+            "name": "APNS HTTP2",
+            "category": "Android",
+            "comment": "A library for communicating with the Apple Push Gateway in HTTP/2. ",
+            "groupid": "com.clevertap.apns",
+            "artefactid": "apns-http2"
+        },{
+            "repo": "mvn-central",
+            "name": "EventBus",
+            "category": "Android",
+            "comment": "Aa publish/subscribe event bus optimized for Android ",
+            "groupid": "de.greenrobot",
+            "artefactid": "eventbus"
+        },{
+            "repo": "mvn-central",
+            "name": "CleverTap Segment Integration",
+            "category": "Android",
+            "comment": "ntegration for Segment Android Analytics",
+            "groupid": "com.clevertap.android",
+            "artefactid": "clevertap-android-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Ticker",
+            "category": "Android",
+            "comment": "Android text view with scrolling text change animation",
+            "groupid": "com.robinhood.ticker",
+            "artefactid": "ticker"
+        },{
+            "repo": "mvn-central",
+            "name": "Crashlytics",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.crashlytics.sdk.android",
+            "artefactid": "crashlytics"
+        },{
+            "repo": "mvn-central",
+            "name": "Crashlytics-Core",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.crashlytics.sdk.android",
+            "artefactid": "crashlytics-core"
+        },{
+            "repo": "mvn-central",
+            "name": "MaterialEditText",
+            "category": "Android",
+            "comment": "EditText in Material Design",
+            "groupid": "com.rengwuxian.materialedittext",
+            "artefactid": "library"
+        },{
+            "repo": "mvn-central",
+            "name": "Calligraphy",
+            "category": "Android",
+            "comment": "Custom fonts in Android the easy way",
+            "groupid": "uk.co.chrisjenx",
+            "artefactid": "calligraphy"
+        },{
+            "repo": "mvn-central",
+            "name": "Ion",
+            "category": "Android",
+            "comment": "Android Asynchronous Networking and Image Loading",
+            "groupid": "com.koushikdutta.ion",
+            "artefactid": "ion"
+        },{
+            "repo": "mvn-central",
+            "name": "AndroidAsync",
+            "category": "Android",
+            "comment": "low level network protocol library",
+            "groupid": "com.koushikdutta.async",
+            "artefactid": "androidasync"
+        },{
+            "repo": "mvn-central",
+            "name": "uCrop",
+            "category": "Android",
+            "comment": "Image Cropping Library for Android",
+            "groupid": "com.yalantis",
+            "artefactid": "ucrop"
+        },{
+            "repo": "mvn-central",
+            "name": "SqlBrite",
+            "category": "Android",
+            "comment": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations",
+            "groupid": "com.squareup.sqlbrite",
+            "artefactid": "sqlbrite"
+        },{
+            "repo": "mvn-central",
+            "name": "SqlBrite2",
+            "category": "Android",
+            "comment": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations",
+            "groupid": "com.squareup.sqlbrite2",
+            "artefactid": "sqlbrite"
+        },{
+            "repo": "mvn-central",
+            "name": "SqlBrite3",
+            "category": "Android",
+            "comment": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations",
+            "groupid": "com.squareup.sqlbrite3",
+            "artefactid": "sqlbrite"
+        },{
+            "repo": "mvn-central",
+            "name": "android-gif-drawable",
+            "category": "Android",
+            "comment": "Views and Drawable for displaying animated GIFs on Android",
+            "groupid": "pl.droidsonroids.gif",
+            "artefactid": "android-gif-drawable"
+        },{
+            "repo": "mvn-central",
+            "name": "Drawbridge",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.cemerick",
+            "artefactid": "drawbridge"
+        },{
+            "repo": "mvn-central",
+            "name": "Vdopia Mediation Adapter",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.appnexus.opensdk.mediatedviews",
+            "artefactid": "appnexus-vdopia-mediation"
+        },{
+            "repo": "mvn-central",
+            "name": "Android Support Library Loader",
+            "category": "Android",
+            "comment": "The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform ",
+            "groupid": "androidx.loader",
+            "artefactid": "loader"
+        },{
+            "repo": "mvn-central",
+            "name": "Play Services Location",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.android.gms",
+            "artefactid": "play-services-location"
+        },{
+            "repo": "mvn-central",
+            "name": "Android AppCompat Library V7",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.android.support",
+            "artefactid": "appcompat-v7"
+        },{
+            "repo": "mvn-central",
+            "name": "Android Support Library V4",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.android.support",
+            "artefactid": "support-v4"
+        },{
+            "repo": "mvn-central",
+            "name": "Android Support Library V13",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.android.support",
+            "artefactid": "support-v13"
+        },{
+            "repo": "mvn-central",
+            "name": "Apache Commons IO",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "commons-io",
+            "artefactid": "commons-io"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Core",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Messaging",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-messaging"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Common",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-common"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Database",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-database"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Auth",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-auth"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase CRaSH",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-crash"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Analytics",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-analytics"
+        },{
+            "repo": "mvn-central",
+            "name": "Apache Log4j Core",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "org.apache.logging.log4j",
+            "artefactid": "log4j-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Cronet",
+            "category": "Android",
+            "comment": "Cronet shared implementation. Not a complete implementation; apps and libraries should not depend on this target directly",
+            "groupid": "org.chromium.net",
+            "artefactid": "cronet-common"
+        },{
+            "repo": "mvn-central",
+            "name": "Cronet",
+            "category": "Android",
+            "comment": "Cronet shared implementation. Not a complete implementation; apps and libraries should not depend on this target directly",
+            "groupid": "org.chromium.net",
+            "artefactid": "cronet-api"
+        },{
+            "repo": "mvn-central",
+            "name": "Cronet",
+            "category": "Android",
+            "comment": "High performance implementation of Cronet using native libraries",
+            "groupid": "org.chromium.net",
+            "artefactid": "cronet-embedded"
+        },{
+            "repo": "mvn-central",
+            "name": "Cronet",
+            "category": "Android",
+            "comment": "HLow performance fallback Cronet implementation based on Android system HttpURLConnection implementation",
+            "groupid": "org.chromium.net",
+            "artefactid": "cronet-fallback"
+        },{
+            "repo": "mvn-central",
+            "name": "Apache Log4j API",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "org.apache.logging.log4j",
+            "artefactid": "log4j-api"
+        },{
+            "repo": "mvn-central",
+            "name": "JSoup",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "org.jsoup",
+            "artefactid": "jsoup"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Admin",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-admin"
+        },{
+            "repo": "mvn-central",
+            "name": "Firebase Ads",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.firebase",
+            "artefactid": "firebase-ads"
+        },{
+            "repo": "mvn-central",
+            "name": "Fabric8 Core",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "io.fabric8",
+            "artefactid": "fabric-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Exoplayer",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.google.android.exoplayer",
+            "artefactid": "exoplayer"
+        },{
+            "repo": "mvn-central",
+            "name": "MoPub SDK Rewardedvideo",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.mopub",
+            "artefactid": "mopub-sdk-rewardedvideo"
+        },{
+            "repo": "mvn-central",
+            "name": "Adcel Vungle",
+            "category": "Android",
+            "comment": "",
+            "groupid": "co.adcel.android",
+            "artefactid": "adcel-vungle"
+        },{
+            "repo": "mvn-central",
+            "name": "Robopods Heyzap",
+            "category": "Android",
+            "comment": "",
+            "groupid": "org.robovm",
+            "artefactid": "robopods-heyzap-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Adcel Supersonic",
+            "category": "Android",
+            "comment": "",
+            "groupid": "co.adcel.android",
+            "artefactid": "adcel-supersonic"
+        },{
+            "repo": "mvn-central",
+            "name": "Adnets Mobfox",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.bingzer.android.ads",
+            "artefactid": "adnets-mobfox"
+        },{
+            "repo": "mvn-central",
+            "name": "InMobi Mobile Ads",
+            "category": "Advertising",
+            "comment": "",
+            "groupid": "com.inmobi.monetization",
+            "artefactid": "inmobi-ads"
+        },{
+            "repo": "mvn-central",
+            "name": "MoPub SDK Native Video",
+            "category": "Android",
+            "comment": "",
+            "groupid": "com.mopub",
+            "artefactid": "mopub-sdk-native-video"
+        },{
+            "repo": "mvn-central",
+            "name": "AirMapView",
+            "category": "Android",
+            "comment": "A view abstraction to provide a map user interface with various underlying map providers",
+            "groupid": "com.airbnb.android",
+            "artefactid": "airmapview"
+        },{
+            "repo": "mvn-central",
+            "name": "Logger",
+            "category": "Android",
+            "comment": "Simple, pretty and powerful logger for Android",
+            "groupid": "com.orhanobut",
+            "artefactid": "logger"
+        },{
+            "repo": "mvn-central",
+            "name": "RxAndroidBle",
+            "category": "Android",
+            "comment": "RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches.",
+            "groupid": "com.polidea.rxandroidble",
+            "artefactid": "rxandroidble"
+        },{
+            "repo": "mvn-central",
+            "name": "Sensey",
+            "category": "Android",
+            "comment": "Detecting gestures in a snap",
+            "groupid": "com.github.nisrulz",
+            "artefactid": "sensey"
+        },{
+            "repo": "mvn-central",
+            "name": "Material Calendar View",
+            "category": "Android",
+            "comment": "A Material design back port of Android's CalendarView",
+            "groupid": "com.prolificinteractive",
+            "artefactid": "material-calendarview"
+        },{
+            "repo": "mvn-central",
+            "name": "TimesSquare",
+            "category": "Android",
+            "comment": "Standalone Android widget for picking a single date from a calendar view.",
+            "groupid": "com.squareup",
+            "artefactid": "android-times-square"
+        },{
+            "repo": "mvn-central",
+            "name": "Stetho",
+            "category": "Android",
+            "comment": "A debug bridge for Android applications",
+            "groupid": "com.facebook.stetho",
+            "artefactid": "stetho"
+        },{
+            "repo": "mvn-central",
+            "name": "Bugsnag",
+            "category": "Android",
+            "comment": "Official Bugsnag notifier for Java applications",
+            "groupid": "com.bugsnag",
+            "artefactid": "bugsnag"
+        },{
+            "repo": "mvn-central",
+            "name": "Stripe Android",
+            "category": "Android",
+            "comment": "Stripe Android Bindings",
+            "groupid": "com.stripe",
+            "artefactid": "stripe-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Android Beacon Library",
+            "category": "Android",
+            "comment": "An Android library providing APIs to interact with BLE beacons",
+            "groupid": "org.altbeacon",
+            "artefactid": "android-beacon-library"
+        },{
+            "repo": "mvn-central",
+            "name": "EventBus",
+            "category": "Android",
+            "comment": "EventBus is a publish/subscribe event bus optimized for Android",
+            "groupid": "org.greenrobot",
+            "artefactid": "eventbus"
+        },{
+            "repo": "mvn-central",
+            "name": "Butter Knife",
+            "category": "Android",
+            "comment": "Bind Android views and callbacks to fields and methods",
+            "groupid": "com.jakewharton",
+            "artefactid": "butterknife"
+        },{
+            "repo": "mvn-central",
+            "name": "New Relic",
+            "category": "Android",
+            "comment": "The New Relic Java Agent Api",
+            "groupid": "com.newrelic.agent.java",
+            "artefactid": "newrelic-api"
+        },{
+            "repo": "mvn-central",
+            "name": "WeChat",
+            "category": "Android",
+            "comment": "Wechat SDK for Android",
+            "groupid": "com.tencent.mm.opensdk",
+            "artefactid": "wechat-sdk-android-with-mta"
+        },{
+            "repo": "mvn-central",
+            "name": "WeChat",
+            "category": "Android",
+            "comment": "Wechat SDK for Android",
+            "groupid": "com.tencent.mm.opensdk",
+            "artefactid": "wechat-sdk-android-without-mta"
+        },{
+            "repo": "mvn-central",
+            "name": "Ddmlib",
+            "category": "Android",
+            "comment": "Library providing APIs to talk to Android devices",
+            "groupid": "com.android.tools.ddms",
+            "artefactid": "ddmlib"
+        },{
+            "repo": "mvn-central",
+            "name": "Crittercism",
+            "category": "Analytics",
+            "comment": "",
+            "groupid": "com.crittercism",
+            "artefactid": "crittercism-android-agent"
+        },{
+            "repo": "mvn-central",
+            "name": "HockeyApp",
+            "category": "Analytics",
+            "comment": "Microsoft HockeyApp: http://hockeyapp.net/features/",
+            "groupid": "net.hockeyapp.android",
+            "artefactid": "HockeySDK"
+        },{
+            "repo": "mvn-central",
+            "name": "Segment",
+            "category": "Analytics",
+            "comment": "",
+            "groupid": "com.segment.analytics.android",
+            "artefactid": "analytics-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Segment",
+            "category": "Analytics",
+            "comment": "",
+            "groupid": "com.segment.analytics.android",
+            "artefactid": "analytics"
+        },{
+            "repo": "mvn-central",
+            "name": "Mixpanel",
+            "category": "Android",
+            "comment": "Official Mixpanel tracking library for Android ",
+            "groupid": "com.mixpanel.android",
+            "artefactid": "mixpanel-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Amazon AWS Mobile Analytics",
+            "category": "Analytics",
+            "comment": "With Amazon Mobile Analytics, you can measure app usage and app revenue.",
+            "groupid": "com.amazonaws",
+            "artefactid": "aws-android-sdk-mobileanalytics"
+        },{
+            "repo": "mvn-central",
+            "name": "Urban Airship",
+            "category": "Analytics",
+            "comment": "",
+            "groupid": "com.urbanairship.android",
+            "artefactid": "urbanairship-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "AppsFlyer",
+            "category": "Analytics",
+            "comment": "Mobile Attribution and Marketing Analytics",
+            "groupid": "com.appsflyer",
+            "artefactid": "af-android-sdk"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS Mobile SDK core",
+           "category": "Cloud",
+           "comment": "",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-core"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon API Gateway",
+           "category": "Cloud",
+           "comment": "API Gateway is an AWS service that enables developers to create, publish, maintain, monitor, and secure APIs at any scale.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-apigateway-core"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS IoT",
+           "category": "Cloud",
+           "comment": "AWS IoT is a managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-iot"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS Elastic Beanstalk",
+           "category": "Cloud",
+           "comment": "With Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without worrying about the infrastructure that runs those applications.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-elb"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon SimpleDB",
+           "category": "Cloud",
+           "comment": "Amazon SimpleDB is a highly available NoSQL data store that offloads the work of database administration.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-sdb"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Rekognition",
+           "category": "Cloud",
+           "comment": "Amazon Rekognition is a service that enables you to add image analysis to your applications.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-rekognition"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Cloud Watch",
+           "category": "Cloud",
+           "comment": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-cloudwatch"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Cognito Identity Provider",
+           "category": "Cloud",
+           "comment": "",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-cognitoidentityprovider"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Cognito Auth",
+           "category": "Cloud",
+           "comment": "",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-cognitoauth"
+        },{
+            "repo": "mvn-central",
+	    "name": "Adnets Leadbolt",
+	    "category" : "Advertising",
+	    "comment" : "",
+	    "groupid": "com.bingzer.android.ads",
+	    "artefactid": "adnets-leadbolt"
+	},{
+            "repo": "mvn-central",
+           "name": "Amazon Cognito Sync",
+           "category": "Cloud",
+           "comment": "Using Amazon Cognito Identity, you can create unique identities for your users and authenticate them for secure access to your AWS resources",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-cognito"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon DynamoDB",
+           "category": "Cloud",
+           "comment": "DynamoDB is a fast, highly scalable, highly available, cost-effective, nonrelational database service.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-ddb"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon DynamoDB Document",
+           "category": "Cloud",
+           "comment": "",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-ddb-document"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon DynamoDB Object Mapper",
+           "category": "Cloud",
+           "comment": "DynamoDB Object Mapper lets you map client-side classes to DynamoDB tables; perform various create, read, update, and delete (CRUD) operations; and execute queries.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-ddb-mapper"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Elastic Compute Cloud (EC2)",
+           "category": "Cloud",
+           "comment": "Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-ec2"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Kinesis Streams",
+           "category": "Cloud",
+           "comment": "Amazon Kinesis is a fully managed service for real-time processing of streaming data at massive scale.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-kinesis"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Machine Learning",
+           "category": "Cloud",
+           "comment": "Amazon Machine Learning is a service that makes it easy for developers of all skill levels to use machine learning technology.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-machinelearning"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Polly",
+           "category": "Cloud",
+           "comment": "Add Text to Speech Capability to your Android App with Amazon Polly",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-polly"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Pinpoint",
+           "category": "Cloud",
+           "comment": "Create Push Notification Campaigns with Amazon Pinpoint",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-pinpoint"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Java SDK",
+           "category": "Cloud",
+           "comment": "The Amazon Web Services SDK for Java provides Java APIs for building software on AWS' cost-effective, scalable, and reliable infrastructure products",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-java-sdk"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Simple Storage Service (S3)",
+           "category": "Cloud",
+           "comment": "Amazon S3 provides secure, durable, highly-scalable object storage in the cloud.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-s3"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Simple Email Service (SES)",
+           "category": "Cloud",
+           "comment": "SES eliminates the complexity and expense of building an in-house email solution.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-ses"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Simple Notification Service (SNS)",
+           "category": "Cloud",
+           "comment": "SNS is a flexible, fully managed pub/sub messaging and mobile notifications service for coordinating the delivery of messages to subscribing endpoints and clients.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-sns"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Simple Queue Service (SQS)",
+           "category": "Cloud",
+           "comment": "SQS is a fully managed message queuing service that makes it easy to decouple and scale microservices, distributed systems, and serverless applications.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-sqs"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS Auto Scaling",
+           "category": "Cloud",
+           "comment": "Auto Scaling helps you maintain application availability and allows you to dynamically scale your Amazon EC2 capacity up or down automatically according to conditions you define.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-autoscaling"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS Key Management Service (KMS)",
+           "category": "Cloud",
+           "comment": "KMS is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses Hardware Security Modules (HSMs) to protect the security of your keys.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-kms"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon AWS Lambda",
+           "category": "Cloud",
+           "comment": "Execute Code On Demand with Amazon Lambda",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-lambda"
+        },{
+            "repo": "mvn-central",
+           "name": "AWS DynamoDB",
+           "category": "Cloud",
+           "comment": "The AWS Java SDK for Amazon DynamoDB module holds the client classes that are used for communicating with Amazon DynamoDB Service ",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-java-sdk-dynamodb"
+        },{
+            "repo": "mvn-central",
+           "name": "PhotoView Library",
+           "category": "Android",
+           "comment": "A simple ImageView that support zooming, both by Multi-touch gestures and double-tap.",
+           "groupid": "com.github.chrisbanes.photoview",
+           "artefactid": "library"
+        },{
+            "repo": "mvn-central",
+           "name": "Amazon Lex",
+           "category": "Cloud",
+           "comment": "Amazon Lex is an AWS service for building conversational interfaces for any applications using voice and text.",
+           "groupid": "com.amazonaws",
+           "artefactid": "aws-android-sdk-lex"
+        },{
+            "repo": "mvn-central",
+            "name": "Parse",
+            "category": "Cloud",
+            "comment": "",
+            "groupid": "com.parse",
+            "artefactid": "parse-android"
+        },{
+            "repo": "mvn-central",
+            "name": "OneDrive",
+            "category": "Cloud",
+            "comment": "Microsoft OneDrive",
+            "groupid": "com.onedrive.sdk",
+            "artefactid": "onedrive-sdk-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Dropbox",
+            "category": "Cloud",
+            "comment": "A Java library to access Dropbox's HTTP-based Core API v2",
+            "groupid": "com.dropbox.core",
+            "artefactid": "dropbox-core-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Twilio",
+            "category": "Cloud",
+            "comment": "High-quality VoIP calling for web and mobile apps",
+            "groupid": "com.twilio.sdk",
+            "artefactid": "twilio-java-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-android-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook Core",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook Login",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-login"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook Sharing",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-share"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook Places",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-places"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook Messenger",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-messenger"
+        },{
+            "repo": "mvn-central",
+            "name": "Facebook App Links",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.facebook.android",
+            "artefactid": "facebook-applinks"
+        },{
+            "repo": "mvn-central",
+            "name": "vkontakte",
+            "category": "SocialMedia",
+            "comment": "",
+            "groupid": "com.vk",
+            "artefactid": "androidsdk"
+        },{
+            "repo": "mvn-central",
+            "name": "flickrj",
+            "category": "SocialMedia",
+            "comment": "A Java Flickr API library built for POJO, Android and Google App Engine",
+            "groupid": "com.googlecode.flickrj-android",
+            "artefactid": "flickrj-android"
+        },{
+            "repo": "mvn-central",
+            "name": "twitter4j",
+            "category": "SocialMedia",
+            "comment": "Twitter4J is an unofficial Java library for the Twitter API",
+            "groupid": "org.twitter4j",
+            "artefactid": "twitter4j-core"
+        },	{
+            "repo": "mvn-central",
+            "name": "apache httpclient android",
+            "category": "Utilities",
+            "comment": "Apache HttpClient for Android",
+            "groupid": "org.apache.httpcomponents",
+            "artefactid": "httpclient-android"
+        },{
+            "repo": "mvn-central",
+            "name": "log4j",
+            "category": "Utilities",
+            "comment": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor",
+            "groupid": "org.apache.logging.log4j",
+            "artefactid": "log4j-core"
+        },{
+            "repo": "mvn-central",
+            "name": "MessagePack",
+            "category": "Utilities",
+            "comment": "MessagePack is an efficient binary serialization format",
+            "groupid": "org.msgpack",
+            "artefactid": "msgpack"
+        },{
+            "repo": "mvn-central",
+            "name": "roboguice",
+            "category": "Utilities",
+            "comment": "Google Guice on Android",
+            "groupid": "org.roboguice",
+            "artefactid": "roboguice"
+        },{
+            "repo": "mvn-central",
+            "name": "ScribeJava Core",
+            "category": "Utilities",
+            "comment": "Simple OAuth library for Java",
+            "groupid": "com.github.scribejava",
+            "artefactid": "scribejava-core"
+        },{
+            "repo": "mvn-central",
+            "name": "android-oauth-client",
+            "category": "Utilities",
+            "comment": "Android OAuth Client Library",
+            "groupid": "com.wu-man",
+            "artefactid": "android-oauth-client"
+        },{
+            "repo": "mvn-central",
+            "name": "MapBox",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.mapbox.mapboxsdk",
+            "artefactid": "mapbox-android-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Paypal",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.paypal.sdk",
+            "artefactid": "paypal-android-sdk"
+        },{
+            "repo": "mvn-central",
+            "name": "Syrup",
+            "category": "Utilities",
+            "comment": "This library helps 3rd party developers or merchants to develop with Syrup Pay service",
+            "groupid": "com.skplanet.syruppay",
+            "artefactid": "syruppay-token"
+        },{
+            "repo": "mvn-central",
+            "name": "braintree payments",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.braintreepayments.api",
+            "artefactid": "braintree"
+        },{
+            "repo": "mvn-central",
+            "name": "Guice",
+            "category": "Utilities",
+            "comment": "Guice is a lightweight dependency injection framework for Java 6+",
+            "groupid": "com.google.inject",
+            "artefactid": "guice"
+        },{
+            "repo": "mvn-central",
+            "name": "Guava",
+            "category": "Utilities",
+            "comment": "Google Core Libraries for Java 6+",
+            "groupid": "com.google.guava",
+            "artefactid": "guava"
+        },{
+            "repo": "mvn-central",
+            "name": "Gson",
+            "category": "Utilities",
+            "comment": "A Java serialization/deserialization library that can convert Java Objects into JSON and back.",
+            "groupid": "com.google.code.gson",
+            "artefactid": "gson"
+        },{
+            "repo": "mvn-central",
+            "name": "okio",
+            "category": "Utilities",
+            "comment": "fast I/O and resizable buffers",
+            "groupid": "com.squareup.okio",
+            "artefactid": "okio"
+        },{
+            "repo": "mvn-central",
+            "name": "Okio Parent",
+            "category": "Utilities",
+            "comment": "fast and modern I/O API for Java ",
+            "groupid": "com.squareup.okio",
+            "artefactid": "okio-parent"
+        },{
+            "repo": "mvn-central",
+            "name": "leakcanary",
+            "category": "Utilities",
+            "comment": "A memory leak detection library for Android and Java",
+            "groupid": "com.squareup.leakcanary",
+            "artefactid": "leakcanary-android"
+        },{
+            "repo": "mvn-central",
+            "name": "Dagger",
+            "category": "Utilities",
+            "comment": "A fast dependency injector for Android and Java.",
+            "groupid": "com.squareup.dagger",
+            "artefactid": "dagger"
+        },{
+            "repo": "mvn-central",
+            "name": "Dagger2",
+            "category": "Utilities",
+            "comment": "A fast dependency injector for Android and Java.",
+            "groupid": "com.google.dagger",
+            "artefactid": "dagger"
+        },{
+            "repo": "mvn-central",
+            "name": "Dagger Compiler",
+            "category": "Utilities",
+            "comment": "Tools to generate Dagger injection and module adapters from annotated code ",
+            "groupid": "com.squareup.dagger",
+            "artefactid": "dagger-compiler"
+        },{
+            "repo": "mvn-central",
+            "name": "OkHttp",
+            "category": "Utilities",
+            "comment": "An HTTP and HTTP/2 client for Android and Java applications",
+            "groupid": "com.squareup.okhttp",
+            "artefactid": "okhttp"
+        },{
+            "repo": "mvn-central",
+            "name": "OkHttp",
+            "category": "Utilities",
+            "comment": "An HTTP and HTTP/2 client for Android and Java applications",
+            "groupid": "com.squareup.okhttp3",
+            "artefactid": "okhttp"
+        },{
+            "repo": "mvn-central",
+            "name": "Tape",
+            "category": "Utilities",
+            "comment": "A lightning fast, transactional, file-based FIFO for Android and Java.",
+            "groupid": "com.squareup",
+            "artefactid": "tape"
+        },{
+            "repo": "mvn-central",
+            "name": "Bolts",
+            "category": "Utilities",
+            "comment": "Bolts is a collection of low-level libraries designed to make developing mobile apps easier.",
+            "groupid": "com.parse.bolts",
+            "artefactid": "bolts-android"
+        },{
+            "repo": "mvn-central",
+            "name": "jsoup",
+            "category": "Utilities",
+            "comment": "Java HTML Parser",
+            "groupid": "org.jsoup",
+            "artefactid": "jsoup"
+        },{
+            "repo": "mvn-central",
+            "name": "Joda Time",
+            "category": "Utilities",
+            "comment": "Joda-Time is the widely used replacement for the Java date and time classes.",
+            "groupid": "joda-time",
+            "artefactid": "joda-time"
+        },{
+            "repo": "mvn-central",
+            "name": "FasterXML Jackson-Core",
+            "category": "Utilities",
+            "comment": "Core part of Jackson that defines Streaming API as well as basic shared abstractions",
+            "groupid": "com.fasterxml.jackson.core",
+            "artefactid": "jackson-core"
+        },{
+            "repo": "mvn-central",
+            "name": "FasterXML Jackson-Databind",
+            "category": "Utilities",
+            "comment": "Databind part of Jackson that defines Streaming API as well as basic shared abstractions",
+            "groupid": "com.fasterxml.jackson.core",
+            "artefactid": "jackson-databind"
+        },{
+            "repo": "mvn-central",
+            "name": "OrmLite",
+            "category": "Utilities",
+            "comment": "Lightweight Object Relational Mapping (ORM)",
+            "groupid": "com.j256.ormlite",
+            "artefactid": "ormlite-android"
+        },{
+            "repo": "mvn-central",
+            "name": "mapsforge",
+            "category": "Utilities",
+            "comment": "Maps rendering based on OpenStreetMap data",
+            "groupid": "org.mapsforge",
+            "artefactid": "mapsforge-core"
+        },{
+            "repo": "mvn-central",
+            "name": "CacheWord",
+            "category": "Utilities",
+            "comment": "an Android library project for passphrase caching and management",
+            "groupid": "info.guardianproject.cacheword",
+            "artefactid": "cachewordlib"
+        },{
+            "repo": "mvn-central",
+            "name": "GeoJSON",
+            "category": "Utilities",
+            "comment": "A complete GeoJSON implementation for Android.",
+            "groupid": "com.cocoahero.android",
+            "artefactid": "geojson"
+        },{
+            "repo": "mvn-central",
+            "name": "Retrofit",
+            "category": "Utilities",
+            "comment": "Type-safe HTTP client for Android and Java",
+            "groupid": "com.squareup.retrofit",
+            "artefactid": "retrofit"
+        },{
+            "repo": "mvn-central",
+            "name": "Retrofit",
+            "category": "Utilities",
+            "comment": "Type-safe HTTP client for Android and Java",
+            "groupid": "com.squareup.retrofit2",
+            "artefactid": "retrofit"
+        },{
+            "repo": "mvn-central",
+            "name": "JSch",
+            "category": "Utilities",
+            "comment": "JSch is a pure Java implementation of SSH2 ",
+            "groupid": "com.jcraft",
+            "artefactid": "jsch"
+        },{
+            "repo": "mvn-central",
+            "name": "IOCipher",
+            "category": "Utilities",
+            "comment": "NetCipher is a library for Android that provides multiple means to improve network security in mobile applications",
+            "groupid": "info.guardianproject.iocipher",
+            "artefactid": "IOCipher"
+        },{
+            "repo": "mvn-central",
+            "name": "TrustedIntents",
+            "category": "Utilities",
+            "comment": "a library for flexible trusted interactions between Android apps",
+            "groupid": "info.guardianproject.trustedintents",
+            "artefactid": "trustedintents"
+        },{
+            "repo": "mvn-central",
+            "name": "PrettyTime",
+            "category": "Utilities",
+            "comment": "PrettyTime is an OpenSource time formatting library",
+            "groupid": "org.ocpsoft.prettytime",
+            "artefactid": "prettytime"
+        },{
+            "repo": "mvn-central",
+            "name": "Scribe",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "org.scribe",
+            "artefactid": "scribe"
+        },{
+            "repo": "mvn-central",
+            "name": "Scribe",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "com.github.scribejava",
+            "artefactid": "scribejava-apis"
+        },{
+            "repo": "mvn-central",
+            "name": "SQLCipher",
+            "category": "Utilities",
+            "comment": "Android SQLite API based on SQLCipher",
+            "groupid": "net.zetetic",
+            "artefactid": "android-database-sqlcipher"
+        },{
+            "repo": "mvn-central",
+            "name": "Signpost Core",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "oauth.signpost",
+            "artefactid": "signpost-core"
+        },{
+            "repo": "mvn-central",
+            "name": "Retrolambda",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "net.orfjackal.retrolambda",
+            "artefactid": "retrolambda"
+        },{
+            "repo": "mvn-central",
+            "name": "Signpost Commonshttp4",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "oauth.signpost",
+            "artefactid": "signpost-commonshttp4"
+        },{
+            "repo": "mvn-central",
+            "name": "PubNub",
+            "category": "Utilities",
+            "comment": "Publish/Subscribe model for real-time data streaming and device signaling",
+            "groupid": "com.pubnub",
+            "artefactid": "pubnub"
+        },{
+            "repo": "mvn-central",
+            "name": "SQLBrite",
+            "category": "Utilities",
+            "comment": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.",
+            "groupid": "com.squareup.sqlbrite",
+            "artefactid": "sqlbrite"
+        },{
+            "repo": "mvn-central",
+            "name": "Retrolambda",
+            "category": "Utilities",
+            "comment": "Backport of Java 8's lambda expressions to Java 7, 6 and 5",
+            "groupid": "net.orfjackal.retrolambda",
+            "artefactid": "retrolambda"
+        },{
+            "repo": "mvn-central",
+            "name": "Flurry Analytics",
+            "category": "Analytics",
+            "comment": "",
+            "groupid": "com.segment.analytics.android",
+            "artefactid": "analytics-integration-flurry"
+        },{
+            "repo": "mvn-central",
+            "name": "Braintree payments",
+            "category": "Utilities",
+            "comment": "Java Client Library for Braintree Payments Gateway",
+            "groupid": "com.braintreepayments.gateway",
+            "artefactid": "braintree-java"
+        },{"repo": "mvn-central",
+            "name": "PNGJ",
+            "category": "Utilities",
+            "comment": "Pure Java library for efficient PNG encoding/decoding",
+            "groupid": "ar.com.hjg",
+            "artefactid": "pngj"
+        },{"repo": "mvn-central",
+            "name": "JSch",
+            "category": "Utilities",
+            "comment": "Java Secure Channel (JSch) is a pure Java implementation of SSH2.",
+            "groupid": "com.jcraft",
+            "artefactid": "jsch"
+        },{"repo": "mvn-central",
+            "name": "Trustkit",
+            "category": "Utilities",
+            "comment": "Jan open source library that makes it easy to deploy SSL public key pinning and reporting in any Android App.",
+            "groupid": "com.datatheorem.android.trustkit",
+            "artefactid": "trustkit"
+        },{"repo": "mvn-central",
+            "name": "RxJava",
+            "category": "Utilities",
+            "comment": "Reactive Extensions for the JVM",
+            "groupid": "io.reactivex.rxjava2",
+            "artefactid": "rxjava"
+        },{"repo": "jcenter",
+            "name": "ArrowLogger",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ArrowLogger",
+            "artefactid": "arrow-logger-core"
+        },{"repo": "jcenter",
+            "name": "CustomHistory",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CustomHistory",
+            "artefactid": "CustomHistory"
+        },{"repo": "jcenter",
+            "name": "Junit",
+            "category": "Utilities",
+            "comment": "JUnit is a simple framework to write repeatable tests",
+            "groupid": "junit",
+            "artefactid": "junit-dep"
+        },{"repo": "jcenter",
+            "name": "autoinject",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AInject",
+            "artefactid": "autoinject"
+        },{"repo": "jcenter",
+            "name": "Frame",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AbsFrame",
+            "artefactid": "Frame"
+        },{"repo": "jcenter",
+            "name": "Action",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Action",
+            "artefactid": "app"
+        },{"repo": "jcenter",
+            "name": "agera",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AgeraCore",
+            "artefactid": "agera"
+        },{"repo": "jcenter",
+            "name": "firebase",
+            "category": "Android",
+            "comment": "",
+            "groupid": "AnalyticsAndroid",
+            "artefactid": "firebase"
+        },{"repo": "jcenter",
+            "name": "amazonanalytics",
+            "category": "Android",
+            "comment": "",
+            "groupid": "AnalyticsAndroid",
+            "artefactid": "amazonanalytics"
+        },{"repo": "jcenter",
+            "name": "googleanalytics",
+            "category": "Android",
+            "comment": "",
+            "groupid": "AnalyticsAndroid",
+            "artefactid": "googleanalytics"
+        },{"repo": "jcenter",
+            "name": "hdanalytics",
+            "category": "Android",
+            "comment": "",
+            "groupid": "AnalyticsAndroid",
+            "artefactid": "hdanalytics"
+        },{"repo": "jcenter",
+            "name": "mixpanel",
+            "category": "Android",
+            "comment": "",
+            "groupid": "AnalyticsAndroid",
+            "artefactid": "mixpanel"
+        },{"repo": "jcenter",
+            "name": "AndAOP",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AndAOP",
+            "artefactid": "aop"
+        },{"repo": "jcenter",
+            "name": "AndroidInjector",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AndroidInjector",
+            "artefactid": "AndroidInjectorCore"
+        },{"repo": "jcenter",
+            "name": "AndroidProjectBaser",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AndroidProjectBase",
+            "artefactid": "base_app_libs"
+        },{"repo": "jcenter",
+            "name": "Appmobi",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Appmobi",
+            "artefactid": "Appmobi-native-library"
+        },{"repo": "jcenter",
+            "name": "AppmobiTest",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AppmobiTest",
+            "artefactid": "AppmobiTest-native-library"
+        },{"repo": "jcenter",
+            "name": "AppsZoomSDK",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "AppsZoomSDK",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "betterhqsdk",
+            "category": "jawa-compiler",
+            "comment": "",
+            "groupid": "ArgusLab",
+            "artefactid": "jawa-compiler_2.11"
+        },{"repo": "jcenter",
+            "name": "betterhqsdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "BHQ_Example",
+            "artefactid": "betterhqsdk"
+        },{"repo": "jcenter",
+            "name": "BlurBackground",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "BlurBackground",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "butterpreference",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ButterPreferenceSample",
+            "artefactid": "butterpreference"
+        },{"repo": "jcenter",
+            "name": "cblogger2",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CBLogger",
+            "artefactid": "cblogger2"
+        },{"repo": "jcenter",
+            "name": "CallbackFragment",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CallbackFragment",
+            "artefactid": "compiler"
+        },{"repo": "jcenter",
+            "name": "CallbackFragment",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CallbackFragment",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "Centrifuge-annotation",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Centrifuge",
+            "artefactid": "centrifuge-annotation"
+        },{"repo": "jcenter",
+            "name": "Riot-Api",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Cerberus",
+            "artefactid": "Riot-Api"
+        },{"repo": "jcenter",
+            "name": "Clouddesigner",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Clouddesigner",
+            "artefactid": "org.occiware.clouddesigner.occi"
+        },{"repo": "jcenter",
+            "name": "CityLibrary",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CityLibrary",
+            "artefactid": "mylibrary"
+        },{"repo": "jcenter",
+            "name": "webviewcode",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Codeview-1.0.0",
+            "artefactid": "webviewcode"
+        },{"repo": "jcenter",
+            "name": "ColumnPack-plugin",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ColumnPack",
+            "artefactid": "ColumnPack-plugin"
+        },{"repo": "jcenter",
+            "name": "viewfont",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CustomFont",
+            "artefactid": "viewfont"
+        },{"repo": "jcenter",
+            "name": "CustomHistory",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "CustomHistory",
+            "artefactid": "CustomHistory"
+        },{"repo": "jcenter",
+            "name": "DA-TEST",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "DA-TEST",
+            "artefactid": "daTester"
+        },{"repo": "jcenter",
+            "name": "DTPaySDK",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "DTPaySDK",
+            "artefactid": "SDKLibrary"
+        },{"repo": "jcenter",
+            "name": "daryl",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "DarylAndroidTracker",
+            "artefactid": "daryl"
+        },{"repo": "jcenter",
+            "name": "DeviceInfo",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "DeviceInfo",
+            "artefactid": "app"
+        },{"repo": "jcenter",
+            "name": "Dingo",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Dingo.Demon",
+            "artefactid": "lib"
+        },{"repo": "jcenter",
+            "name": "textchecker",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Dingo.Demon",
+            "artefactid": "textchecker"
+        },{"repo": "jcenter",
+            "name": "UtilityLib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "DrivingSensorTest",
+            "artefactid": "UtilityLib"
+        },{"repo": "jcenter",
+            "name": "EasyFCM",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "EasyFCM",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "textchecker",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "EditTextChecker",
+            "artefactid": "textchecker"
+        },{"repo": "jcenter",
+            "name": "ElapsedTimeLib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ElapsedTimeLib",
+            "artefactid": "ElapsedTimeLib"
+        },{"repo": "jcenter",
+            "name": "Emma",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Emma",
+            "artefactid": "maven-emma-plugin"
+        },{"repo": "jcenter",
+            "name": "Emma",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Emma",
+            "artefactid": "emma_ant"
+        },{"repo": "jcenter",
+            "name": "Emma",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Emma",
+            "artefactid": "emma"
+        },{"repo": "jcenter",
+            "name": "Emma",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Emma",
+            "artefactid": "Emma"
+        },{"repo": "jcenter",
+            "name": "FabButton",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FabButton",
+            "artefactid": "fabbutton"
+        },{"repo": "jcenter",
+            "name": "FastAndroid",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FastAndroid",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "FastFramework",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FastFramework",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "messagelib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FirstLib",
+            "artefactid": "messagelib"
+        },{"repo": "jcenter",
+            "name": "flexibleratingbar",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FlexibleRatingBar",
+            "artefactid": "flexibleratingbar"
+        },{"repo": "jcenter",
+            "name": "FlipperView",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FlipperView",
+            "artefactid": "flipperview"
+        },{"repo": "jcenter",
+            "name": "circlediagramlibrary",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FoodCircleView",
+            "artefactid": "circlediagramlibrary"
+        },{"repo": "jcenter",
+            "name": "fresco-helper",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "FrescoUtils",
+            "artefactid": "fresco-helper"
+        },{"repo": "jcenter",
+            "name": "HTTPClient",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "HTTPClient",
+            "artefactid": "HTTPClient"
+        },{"repo": "jcenter",
+            "name": "HashTagEditText",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "HashTagEditText",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "sampleimage",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ImageView",
+            "artefactid": "sampleimage"
+        },{"repo": "jcenter",
+            "name": "NeonAPI",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Java",
+            "artefactid": "NeonAPI"
+        },{"repo": "jcenter",
+            "name": "qrcode",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "JcenterDemo",
+            "artefactid": "qrcode"
+        },{"repo": "jcenter",
+            "name": "jetanalytics",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Jetsynthesys",
+            "artefactid": "jetanalytics"
+        },{"repo": "jcenter",
+            "name": "jetstreamsdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Jetsynthesys",
+            "artefactid": "jetstreamsdk"
+        },{"repo": "jcenter",
+            "name": "Junit-dep",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Junit",
+            "artefactid": "junit-dep"
+        },{"repo": "jcenter",
+            "name": "wxcore",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Kefudashi",
+            "artefactid": "wxcore"
+        },{"repo": "jcenter",
+            "name": "KittenBinder",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "KittenBinder",
+            "artefactid": "kittenbinder"
+        },{"repo": "jcenter",
+            "name": "LexingFrame",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LexingFrame",
+            "artefactid": "common"
+        },{"repo": "jcenter",
+            "name": "LibApp",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LibApp",
+            "artefactid": "mylibrary"
+        },{"repo": "jcenter",
+            "name": "checkpermissions",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LibCheckPermissions",
+            "artefactid": "checkpermissions"
+        },{"repo": "jcenter",
+            "name": "LibraryDemo",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LibraryDemo",
+            "artefactid": "mylibrarydemo"
+        },{"repo": "jcenter",
+            "name": "basicutils",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LibrarySample",
+            "artefactid": "basicutils"
+        },{"repo": "jcenter",
+            "name": "screen-related-size-text",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Libs",
+            "artefactid": "screen-related-size-text"
+        },{"repo": "jcenter",
+            "name": "Light-ControllerAPI",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Light-ControllerAPI",
+            "artefactid": "lightcontrollerapi"
+        },{"repo": "jcenter",
+            "name": "LocaleRule",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LocaleRule",
+            "artefactid": "locale-rule"
+        },{"repo": "jcenter",
+            "name": "LogManager",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "LogManager",
+            "artefactid": "log-manager-1.0.2"
+        },{"repo": "jcenter",
+            "name": "Logbot",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Logbot",
+            "artefactid": "logbot"
+        },{"repo": "jcenter",
+            "name": "libgglec",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MandooDev",
+            "artefactid": "libgglec"
+        },{"repo": "jcenter",
+            "name": "MaskedTextWatcher",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MaskedTextWatcher",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "MavenTest",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MavenTest",
+            "artefactid": "lib"
+        },{"repo": "jcenter",
+            "name": "MegoUser",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MegoUser2",
+            "artefactid": "MegoUser"
+        },{"repo": "jcenter",
+            "name": "foldabletv",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MyFoldableTextView",
+            "artefactid": "foldabletv"
+        },{"repo": "jcenter",
+            "name": "cibridge",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MyLibrary",
+            "artefactid": "cibridge"
+        },{"repo": "jcenter",
+            "name": "MyLibraryTutorialApp",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MyLibraryTutorialApp",
+            "artefactid": "mylibrarys"
+        },{"repo": "jcenter",
+            "name": "MyProject",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "MyProject",
+            "artefactid": "testlib"
+        },{"repo": "jcenter",
+            "name": "socketnetmodule",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "NetWorkModule",
+            "artefactid": "socketnetmodule"
+        },{"repo": "jcenter",
+            "name": "nexusupload",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "NexusUploadPlugin",
+            "artefactid": "nexusupload"
+        },{"repo": "jcenter",
+            "name": "NiucheAndroid",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "NiucheAndroid",
+            "artefactid": "app"
+        },{"repo": "jcenter",
+            "name": "OJDBC",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "OJDBC",
+            "artefactid": "ojdbc"
+        },{"repo": "jcenter",
+            "name": "Onpublico",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Onpublico",
+            "artefactid": "sdk"
+        },{"repo": "jcenter",
+            "name": "pingpp-java",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Pingplusplus",
+            "artefactid": "pingpp-java"
+        },{"repo": "jcenter",
+            "name": "PlatformManager",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PlatformManager",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "PlugPDF",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PlugPDF",
+            "artefactid": "PlugPDF"
+        },{"repo": "jcenter",
+            "name": "PlugPDF_Core",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PlugPDF_Core",
+            "artefactid": "PlugPDF_Core"
+        },{"repo": "jcenter",
+            "name": "PonyspeedAAR",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PonyspeedJCenter",
+            "artefactid": "PonyspeedAAR"
+        },{"repo": "jcenter",
+            "name": "testaar",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PonyspeedJCenter",
+            "artefactid": "testaar"
+        },{"repo": "jcenter",
+            "name": "PopUpBoxDemo",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PopUpBoxDemo",
+            "artefactid": "popupbox"
+        },{"repo": "jcenter",
+            "name": "iconcountview",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PraiseViewDemo",
+            "artefactid": "iconcountview"
+        },{"repo": "jcenter",
+            "name": "ProgressCircularIndeterminate",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ProgressCircularIndeterminate",
+            "artefactid": "progress"
+        },{"repo": "jcenter",
+            "name": "maskers",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ProjetoTeste",
+            "artefactid": "maskers"
+        },{"repo": "jcenter",
+            "name": "Proximiio",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Proximiio",
+            "artefactid": "proximiiolibrary"
+        },{"repo": "jcenter",
+            "name": "PullMoreRefreshLayout",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "PullMoreRefreshLayout",
+            "artefactid": "pullmorerefreshlayout"
+        },{"repo": "jcenter",
+            "name": "dgwlibrary",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "QuanGod",
+            "artefactid": "dgwlibrary"
+        },{"repo": "jcenter",
+            "name": "quicktortoise",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "QuickTortoise-master",
+            "artefactid": "quicktortoise"
+        },{"repo": "jcenter",
+            "name": "fx",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "RC-CBC-AndroidFramework.framework",
+            "artefactid": "fx"
+        },{"repo": "jcenter",
+            "name": "ResizedImageView",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ResizedImageView",
+            "artefactid": "resizedimageview"
+        },{"repo": "jcenter",
+            "name": "RippleEffect",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "RippleEffect",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "RoundLayouts",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "RoundLayouts",
+            "artefactid": "roundlayout"
+        },{"repo": "jcenter",
+            "name": "RxLocation",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "RxLocation",
+            "artefactid": "rxlocation"
+        },{"repo": "jcenter",
+            "name": "SLN2",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SLN2",
+            "artefactid": "sln"
+        },{"repo": "jcenter",
+            "name": "FujifilmSPA",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SPALib",
+            "artefactid": "FujifilmSPA"
+        },{"repo": "jcenter",
+            "name": "stemihexapod",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "STEMI",
+            "artefactid": "stemihexapod"
+        },{"repo": "jcenter",
+            "name": "SessionSample",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SessionSample",
+            "artefactid": "session"
+        },{"repo": "jcenter",
+            "name": "SimplePlayer",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SimplePlayer",
+            "artefactid": "lib-simpleplayer"
+        },{"repo": "jcenter",
+            "name": "SimpleSplashScreen2",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SimpleSplashScreen2",
+            "artefactid": "lib"
+        },{"repo": "jcenter",
+            "name": "SingleActivity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SingleActivity",
+            "artefactid": "net_mieczkowski_singleactivity"
+        },{"repo": "jcenter",
+            "name": "SingleActivity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SingleActivity",
+            "artefactid": "singleactivity"
+        },{"repo": "jcenter",
+            "name": "SlidejoyAndroid",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SlidejoyAndroid",
+            "artefactid": "sdk"
+        },{"repo": "jcenter",
+            "name": "recyclerview-common",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "SmartRecyclerView",
+            "artefactid": "recyclerview-common"
+        },{"repo": "jcenter",
+            "name": "StatedFragment",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "StatedFragment",
+            "artefactid": "statedfragment"
+        },{"repo": "jcenter",
+            "name": "StatusBarDisplay",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "StatusBarDisplay",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "apiv2",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TBAAPIv2Java",
+            "artefactid": "apiv2"
+        },{"repo": "jcenter",
+            "name": "leanback",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TVStudio.library",
+            "artefactid": "leanback"
+        },{"repo": "jcenter",
+            "name": "TarsysAndroidSupport",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TarsysAndroidSupport",
+            "artefactid": "support"
+        },{"repo": "jcenter",
+            "name": "stroketextview",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Tatsumi",
+            "artefactid": "stroketextview"
+        },{"repo": "jcenter",
+            "name": "teleportlib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Teleport",
+            "artefactid": "teleportlib"
+        },{"repo": "jcenter",
+            "name": "TestApp",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TestApp",
+            "artefactid": "testlib"
+        },{"repo": "jcenter",
+            "name": "TestingAar",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TestingAar",
+            "artefactid": "noy-optimove-test-aar"
+        },{"repo": "jcenter",
+            "name": "quantumjvm_2.12",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TheDocking.Space",
+            "artefactid": "quantumjvm_2.12"
+        },{"repo": "jcenter",
+            "name": "quantumjs_sjs0_6_2_12",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TheDocking.Space",
+            "artefactid": "quantumjs_sjs0_6_2_12"
+        },{"repo": "jcenter",
+            "name": "corejs_sjs0_6_2_12",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TheDocking.Space",
+            "artefactid": "corejs_sjs0_6_2_12"
+        },{"repo": "jcenter",
+            "name": "corejvm_2_12",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TheDocking.Space",
+            "artefactid": "corejvm_2_12"
+        },{"repo": "jcenter",
+            "name": "TookanCustomer",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "TookanCustomer",
+            "artefactid": "app"
+        },{"repo": "jcenter",
+            "name": "Toolkits",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Toolkits",
+            "artefactid": "toolkits"
+        },{"repo": "jcenter",
+            "name": "utilsLib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Utils",
+            "artefactid": "utilsLib"
+        },{"repo": "jcenter",
+            "name": "Velocity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Velocity",
+            "artefactid": "Velocity"
+        },{"repo": "jcenter",
+            "name": "VisualSearchSDK",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "VisualSearchSDK",
+            "artefactid": "visualsearchsdk"
+        },{"repo": "jcenter",
+            "name": "VolumeView",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "VolumeView",
+            "artefactid": "VolumeView"
+        },{"repo": "jcenter",
+            "name": "RestLibrary",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "WenJackpLib",
+            "artefactid": "RestLibrary"
+        },{"repo": "jcenter",
+            "name": "Wintdo-sdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Wintdo-sdk",
+            "artefactid": "app"
+        },{"repo": "jcenter",
+            "name": "library",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "WjEventBus",
+            "artefactid": "library"
+        },{"repo": "jcenter",
+            "name": "slib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Work",
+            "artefactid": "slib"
+        },{"repo": "jcenter",
+            "name": "WxSVGLibrary",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "WxSVGLibrary",
+            "artefactid": "WxSVGLibrary"
+        },{"repo": "jcenter",
+            "name": "xercesImpl",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "Xerces",
+            "artefactid": "xercesImpl"
+        },{"repo": "jcenter",
+            "name": "ZendriveSDK",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ZendriveProject",
+            "artefactid": "ZendriveSDK"
+        },{"repo": "jcenter",
+            "name": "kineticsdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "a.ki.kinetic-sdk",
+            "artefactid": "kineticsdk"
+        },{"repo": "jcenter",
+            "name": "githubmavenlib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "a.b.c",
+            "artefactid": "githubmavenlib"
+        },{"repo": "jcenter",
+            "name": "lwjgl",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aaron-santos",
+            "artefactid": "lwjgl"
+        },{"repo": "jcenter",
+            "name": "appengine-tools-api",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aaronbabcock",
+            "artefactid": "appengine-tools-api"
+        },{"repo": "jcenter",
+            "name": "appengine-local-runtime",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aaronbabcock",
+            "artefactid": "appengine-local-runtime"
+        },{"repo": "jcenter",
+            "name": "appengine-local-runtime-shared",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aaronbabcock",
+            "artefactid": "appengine-local-runtime-shared"
+        },{"repo": "jcenter",
+            "name": "aatree",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aatree",
+            "artefactid": "aatree"
+        },{"repo": "jcenter",
+            "name": "aautil",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aatree",
+            "artefactid": "aautil"
+        },{"repo": "jcenter",
+            "name": "aaworker",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aatree",
+            "artefactid": "aaworker"
+        },{"repo": "jcenter",
+            "name": "durable-cells",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "aatree",
+            "artefactid": "durable-cells"
+        },{"repo": "jcenter",
+            "name": "abbisdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abbi.io",
+            "artefactid": "abbisdk"
+        },{"repo": "jcenter",
+            "name": "abbiadsdk",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abbi.io",
+            "artefactid": "abbiadsdk"
+        },{"repo": "jcenter",
+            "name": "abbot",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abbot",
+            "artefactid": "abbot"
+        },{"repo": "jcenter",
+            "name": "abt",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abbot",
+            "artefactid": "abt"
+        },{"repo": "jcenter",
+            "name": "costello",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abbot",
+            "artefactid": "costello"
+        },{"repo": "jcenter",
+            "name": "util",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abc.d",
+            "artefactid": "util"
+        },{"repo": "jcenter",
+            "name": "helper",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abc.com.helper",
+            "artefactid": "helper"
+        },{"repo": "jcenter",
+            "name": "clj-stripe",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abengoa",
+            "artefactid": "clj-stripe"
+        },{"repo": "jcenter",
+            "name": "verloop-test",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abhijeet.hallur.android",
+            "artefactid": "verloop-test"
+        },{"repo": "jcenter",
+            "name": "roundimage",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abhishek.com.roundimage",
+            "artefactid": "roundimage"
+        },{"repo": "jcenter",
+            "name": "citypicker",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abing.liu.com.citypicker",
+            "artefactid": "citypicker"
+        },{"repo": "jcenter",
+            "name": "abrade",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "abrade",
+            "artefactid": "abrade"
+        },{"repo": "jcenter",
+            "name": "cassaforte",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "absurdfarce",
+            "artefactid": "cassaforte"
+        },{"repo": "jcenter",
+            "name": "common",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ac.at.tuwien.infosys.visp",
+            "artefactid": "common"
+        },{"repo": "jcenter",
+            "name": "topologyParser",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "ac.at.tuwien.infosys.visp",
+            "artefactid": "topologyParser"
+        },{"repo": "jcenter",
+            "name": "custommatcher",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "academy.alex",
+            "artefactid": "custommatcher"
+        },{"repo": "jcenter",
+            "name": "accent",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "accent",
+            "artefactid": "accent"
+        },{"repo": "jcenter",
+            "name": "acceptit",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acceptit",
+            "artefactid": "acceptit"
+        },{"repo": "jcenter",
+            "name": "accession",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "accession",
+            "artefactid": "accession"
+        },{"repo": "jcenter",
+            "name": "accord",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "accord",
+            "artefactid": "accord"
+        },{"repo": "jcenter",
+            "name": "accounting",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "accounting",
+            "artefactid": "accounting"
+        },{"repo": "jcenter",
+            "name": "accrem",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "accrem",
+            "artefactid": "accrem"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-adapters"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-cas"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-catalina-common"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-catalina-server"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-catalina"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-domain"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-jboss-lib"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-jboss"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-jetty-ext"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-jetty"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-parent"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-resin-lib"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-resin"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-sample-annotations"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-taglib"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security-tiger"
+        },{"repo": "jcenter",
+            "name": "acegisecurity",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acegi-security"
+        },{"repo": "jcenter",
+            "name": "xlogrecordlib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acffo.xqx",
+            "artefactid": "xlogrecordlib"
+        },{"repo": "jcenter",
+            "name": "xtoast_lib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acffo.xqx",
+            "artefactid": "xtoast_lib"
+        },{"repo": "jcenter",
+            "name": "xwaveviewlib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acffo.xqx",
+            "artefactid": "xwaveviewlib"
+        },{"repo": "jcenter",
+            "name": "xweekdateview",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acffo.xqx",
+            "artefactid": "xweekdateview"
+        },{"repo": "jcenter",
+            "name": "trousseau",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "achesnais",
+            "artefactid": "trousseau"
+        },{"repo": "jcenter",
+            "name": "acknowledge",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acegisecurity",
+            "artefactid": "acknowledge"
+        },{"repo": "jcenter",
+            "name": "acmetemplate",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acme.groovy",
+            "artefactid": "acmetemplate"
+        },{"repo": "jcenter",
+            "name": "acmehttp",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acme.groovy",
+            "artefactid": "acmehttp"
+        },{"repo": "jcenter",
+            "name": "acolfut",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acolfut",
+            "artefactid": "acolfut"
+        },{"repo": "jcenter",
+            "name": "lein-template",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "acorn",
+            "artefactid": "lein-template"
+        },{"repo": "jcenter",
+            "name": "action-lists",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "action-lists",
+            "artefactid": "action-lists"
+        },{"repo": "jcenter",
+            "name": "activation",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activation",
+            "artefactid": "activation"
+        },{"repo": "jcenter",
+            "name": "active-clojure",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "active-clojure",
+            "artefactid": "active-clojure"
+        },{"repo": "jcenter",
+            "name": "active-graphql",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "active-graphql",
+            "artefactid": "active-graphql"
+        },{"repo": "jcenter",
+            "name": "active-quickcheck",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "active-quickcheck",
+            "artefactid": "active-quickcheck"
+        },{"repo": "jcenter",
+            "name": "active-vars",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "active-vars",
+            "artefactid": "active-vars"
+        },{"repo": "jcenter",
+            "name": "activecluster",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activecluster",
+            "artefactid": "activecluster"
+        },{"repo": "jcenter",
+            "name": "activeio",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activeio",
+            "artefactid": "activeio"
+        },{"repo": "jcenter",
+            "name": "activemq-ra",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq-ra",
+            "artefactid": "activemq-ra"
+        },{"repo": "jcenter",
+            "name": "activemq-axis",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-axis"
+        },{"repo": "jcenter",
+            "name": "activemq-container",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-container"
+        },{"repo": "jcenter",
+            "name": "activemq-core",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-core"
+        },{"repo": "jcenter",
+            "name": "activemq-gbean-management",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-gbean-management"
+        },{"repo": "jcenter",
+            "name": "activemq-gbean",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-gbean"
+        },{"repo": "jcenter",
+            "name": "activemq-itest-ear",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-itest-ear"
+        },{"repo": "jcenter",
+            "name": "activemq-itest-ejb",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-itest-ejb"
+        },{"repo": "jcenter",
+            "name": "activemq-jaas",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-jaas"
+        },{"repo": "jcenter",
+            "name": "activemq-optional",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-optional"
+        },{"repo": "jcenter",
+            "name": "activemq-ra",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-ra"
+        },{"repo": "jcenter",
+            "name": "activemq-bdb",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-bdb"
+        },{"repo": "jcenter",
+            "name": "activemq-spring",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-spring"
+        },{"repo": "jcenter",
+            "name": "activemq-store-bdb",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-store-bdb"
+        },{"repo": "jcenter",
+            "name": "activemq-store-bdbn",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-store-bdbn"
+        },{"repo": "jcenter",
+            "name": "activemq-store-jdbc",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-store-jdbc"
+        },{"repo": "jcenter",
+            "name": "activemq-store-jdbm",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-store-jdbm"
+        },{"repo": "jcenter",
+            "name": "activemq-store-journal",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-store-journal"
+        },{"repo": "jcenter",
+            "name": "activemq-tools",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-tools"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-ember",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-ember"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-gnet",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-gnet"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-http",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-http"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-jabber",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-jabber"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-jgroups",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-jgroups"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-jrms",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-jrms"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-jxta",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-jxta"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-ssl",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-ssl"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-xstream",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-xstream"
+        },{"repo": "jcenter",
+            "name": "activemq-transport-zeroconf",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-transport-zeroconf"
+        },{"repo": "jcenter",
+            "name": "activemq-web",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-web"
+        },{"repo": "jcenter",
+            "name": "activemq-ws-xmltypes",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-ws-xmltypes"
+        },{"repo": "jcenter",
+            "name": "activemq-ws",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq-ws"
+        },{"repo": "jcenter",
+            "name": "activemq",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "activemq"
+        },{"repo": "jcenter",
+            "name": "jaxb-api",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "jaxb-api"
+        },{"repo": "jcenter",
+            "name": "jaxb-impl",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "jaxb-impl"
+        },{"repo": "jcenter",
+            "name": "jaxb-xjc",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "jaxb-xjc"
+        },{"repo": "jcenter",
+            "name": "jmdns",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "jmdns"
+        },{"repo": "jcenter",
+            "name": "relaxngDatatype",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "relaxngDatatype"
+        },{"repo": "jcenter",
+            "name": "smack",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "smack"
+        },{"repo": "jcenter",
+            "name": "smackx",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "smackx"
+        },{"repo": "jcenter",
+            "name": "xsdlib",
+            "category": "Utilities",
+            "comment": "",
+            "groupid": "activemq",
+            "artefactid": "xsdlib"
+        }
+    ]
+}
