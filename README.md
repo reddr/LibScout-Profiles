@@ -1,9 +1,9 @@
 # LibScout Library Profiles
 
 This supplemental repository provides ready-to-use library profiles for the Android/Java third-party library detector [LibScout](https://github.com/reddr/LibScout).
-We try to update this repo regularly. Contributions are welcome. If you wish to include new libraries let me know.<br>
+Contributions are welcome. If you wish to include new libraries let me know.<br>
 
-Due to copyright reasons we cannot publicy provide the <i>original</i> library SDKs. If you are interested in this data, send me an email (Erik Derr  [lastname@cs.uni-saarland.de]).
+Due to copyright reasons we cannot publicy provide the <i>original</i> library SDKs. 
 For original libraries SDKs (including history data) hosted at maven repositories you may use our scraper script from the LibScout repo.
 
 ## Profiles (Last update: 07/16/2019)
